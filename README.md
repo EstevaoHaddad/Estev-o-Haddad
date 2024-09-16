@@ -2,7 +2,7 @@
 
 Meu nome é Estevão Yeshua Gomes Haddad
 
--Estou estudando na [Alura](https://www.alura.com)
+-Estou estudando na Alura
 
 -Estou desenvolvendo linguagem de JavaScript
 
